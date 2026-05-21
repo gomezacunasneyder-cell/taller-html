@@ -1,0 +1,31 @@
+  body{
+        font-family: Arial, sans-serif;
+        margin: 20px;
+    }
+
+ul li{
+    border-bottom: 3px dashed green;
+        padding: 5px;
+        width: 200px; 
+
+}
+.lis2{
+    border-bottom: 3px dotted yellow;
+        padding: 5px;
+        width: 200px;
+}
+
+    table{
+        border-collapse: collapse;
+        margin-top: 20px;
+        width: 300px;
+    }
+
+    table, th, td{
+        border: 1px solid rgb(155, 13, 13);
+    }
+
+    th, td{
+        padding: 10px;
+        text-align: center;
+    }
