@@ -9,7 +9,7 @@ ul li{
         width: 200px; 
 
 }
-.lis2{
+ul.lis2 li{
     border-bottom: 3px dotted yellow;
         padding: 5px;
         width: 200px;
@@ -22,7 +22,7 @@ ul li{
     }
 
     table, th, td{
-        border: 1px solid rgb(155, 13, 13);
+        border: 7px solid rgb(155, 13, 13);
     }
 
     th, td{
